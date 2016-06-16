@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name= "Parallel Test" parallel="tests">
+
+	<test name="T1">
+	
+	<classes>				
+		<class name="TestCases.LoginAndSetMDA" />										
+	</classes>
+		
+	</test>
+	
+	<test name="T2">
+	
+	<classes>				
+		<class name="TestCases.LoginAndSetUnavailable" />									
+	</classes>
+		
+	</test>
+	
+</suite>

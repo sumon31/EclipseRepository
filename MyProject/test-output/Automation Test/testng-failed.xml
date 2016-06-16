@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Test]">
+  <test name="Regression Testcases(failed)">
+    <classes>
+      <class name="TestCases.LoginAndSetMDA">
+        <methods>
+          <include name="LoginAndEquipDownChrome"/>
+        </methods>
+      </class> <!-- TestCases.LoginAndSetMDA -->
+      <class name="TestCases.LoginAndSetSpecialPosition">
+        <methods>
+          <include name="LoginAndSetSpecialPositionChrome"/>
+        </methods>
+      </class> <!-- TestCases.LoginAndSetSpecialPosition -->
+    </classes>
+  </test> <!-- Regression Testcases(failed) -->
+</suite> <!-- Failed suite [Automation Test] -->
