@@ -22,7 +22,7 @@ public class Hello {
 		countryName.add("Pakistan");
 		countryName.add("Dubai");
 		countryName.add("North America");
-		countryName.add("United Kingdom");
+		countryName.add("UK");
 		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\skashem\\Desktop\\selenium-2.48.2\\chromedriver.exe");
 		System.setProperty("webdriver.ie.driver","C:\\Users\\skashem\\Desktop\\selenium-2.48.2\\IEDriver.exe");
